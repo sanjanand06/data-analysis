@@ -7,8 +7,8 @@ Roller Coaster Dataset is data about 1000 roller coasters scraped from Wikipedia
 - Most used material for manufacturing roller coasters.
 
 #### Tools
-Programming language - Python
-Libraries - numpy, pandas, seaborn, matplotlib
+- Programming language - Python
+- Libraries - numpy, pandas, seaborn, matplotlib
 
 #### Dataset
 The data set is publicly available on [Kaggle](https://www.kaggle.com/datasets/robikscube/rollercoaster-database).
